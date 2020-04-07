@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ced8e77b-878f-4ef7-b5da-35867a3a8ae6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CleanCode/ThucHanh/Refactoring/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UmvEWJY76YUMqykoyerVDaHxPD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Application.AbstractAndInterfaceTests">
+    <configuration name="AbstractAndInterfaceTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedObjectOrientedDesign.AbstractAndInterfaceTests.AbstractAndInterfaceTests" />
+      <module name="JavaBackEnd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdvancedObjectOrientedDesign.AbstractAndInterfaceTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PoolArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MangVaPhuongThuc.BaiTap.GopMang.PoolArr" />
+      <module name="JavaBackEnd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MangVaPhuongThuc.BaiTap.GopMang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MangVaPhuongThuc.BaiTap.XoaPhanTuKhoiMang.RemoveElement" />
+      <module name="JavaBackEnd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MangVaPhuongThuc.BaiTap.XoaPhanTuKhoiMang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MangVaPhuongThuc.ThucHanh.DaoNguocCaPhanTuTrongMang.Reverse" />
+      <module name="JavaBackEnd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MangVaPhuongThuc.ThucHanh.DaoNguocCaPhanTuTrongMang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfDiagonalLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MangVaPhuongThuc.BaiTap.TinhTongDuongCheoMang2Chieu.SumOfDiagonalLines" />
+      <module name="JavaBackEnd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MangVaPhuongThuc.BaiTap.TinhTongDuongCheoMang2Chieu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AbstractAndInterfaceTests" />
+        <item itemvalue="Application.RemoveElement" />
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.SumOfDiagonalLines" />
+        <item itemvalue="Application.PoolArr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ced8e77b-878f-4ef7-b5da-35867a3a8ae6" name="Default Changelist" comment="" />
+      <created>1575974474672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575974474672</updated>
+      <workItem from="1575974481508" duration="47000" />
+      <workItem from="1575976150831" duration="935000" />
+      <workItem from="1575981100012" duration="4378000" />
+      <workItem from="1576034637810" duration="6687000" />
+      <workItem from="1576056722290" duration="2646000" />
+      <workItem from="1576202969563" duration="49000" />
+      <workItem from="1576462883235" duration="14000" />
+      <workItem from="1576729279398" duration="1317000" />
+      <workItem from="1576826666090" duration="144000" />
+      <workItem from="1577977279662" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="339" y="67" width="677" height="659" key="#BMI" timestamp="1576042518852">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="67" width="677" height="659" key="#BMI/0.27.1366.741@0.27.1366.741" timestamp="1576042518852" />
+    <state x="499" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575974493206">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1575974493206" />
+    <state width="1320" height="215" key="GridCell.Tab.0.bottom" timestamp="1576767744253">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1576767744253" />
+    <state width="623" height="2" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575987169480" />
+    <state width="1320" height="215" key="GridCell.Tab.0.center" timestamp="1576767744253">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1576767744253" />
+    <state width="623" height="2" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1575987169480" />
+    <state width="1320" height="215" key="GridCell.Tab.0.left" timestamp="1576767744252">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1576767744252" />
+    <state width="623" height="2" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1575987169479" />
+    <state width="1320" height="215" key="GridCell.Tab.0.right" timestamp="1576767744253">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1576767744253" />
+    <state width="623" height="2" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1575987169480" />
+    <state width="1320" height="215" key="GridCell.Tab.1.bottom" timestamp="1576767744255">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1576767744255" />
+    <state width="1320" height="215" key="GridCell.Tab.1.center" timestamp="1576767744254">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1576767744254" />
+    <state width="1320" height="215" key="GridCell.Tab.1.left" timestamp="1576767744254">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1576767744254" />
+    <state width="1320" height="215" key="GridCell.Tab.1.right" timestamp="1576767744254">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1576767744254" />
+    <state x="205" y="33" key="SettingsEditor" timestamp="1575981553367">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="33" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1575981553367" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1575981103006">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1575981103006" />
+    <state x="0" y="27" width="710" height="741" key="find.popup" timestamp="1575985622155">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="0" y="27" width="710" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1575985622155" />
+    <state x="0" y="27" width="1289" height="741" key="new project wizard" timestamp="1576826814337">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1576826814337" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1575974502665" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1576729910596">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1576729910596" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MangVaPhuongThuc/BaiTap/XoaPhanTuKhoiMang/RemoveElement.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
